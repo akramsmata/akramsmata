@@ -41,6 +41,6 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/akramsmata" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="yourlinkedin" height="30" width="30" /></a>
+  <a href="www.linkedin.com/in/akram-smata-b20a15226" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="yourlinkedin" height="30" width="30" /></a>
   <a href="https://twitter.com/akramsmata" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="yourtwitter" height="30" width="30" /></a>
 </p>
