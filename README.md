@@ -95,7 +95,7 @@ Reach out to collaborate or just say hi!
 [![Email](https://img.shields.io/badge/Email-akramsmata80@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akramsmata80@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-akramsmata-181717?style=flat&logo=github&logoColor=white)](https://github.com/akramsmata)
 
-🌐 [Visit My Website](https://akram-s.devunion.dev/) *(Update with your portfolio URL)*  
+🌐 [Visit My Website](https://akram-s.netlify.app/) *(Update with your portfolio URL)*  
 🔍 [Google Me](https://www.google.com/search?q=Akram+Smata)
 
 ---
